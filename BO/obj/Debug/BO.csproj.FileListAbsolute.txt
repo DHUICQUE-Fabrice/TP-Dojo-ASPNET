@@ -1,0 +1,6 @@
+Z:\ExercicesEni\ASP.NET\Module6-EntityFramework\TP-Dojo\BO\bin\Debug\BO.dll
+Z:\ExercicesEni\ASP.NET\Module6-EntityFramework\TP-Dojo\BO\bin\Debug\BO.pdb
+Z:\ExercicesEni\ASP.NET\Module6-EntityFramework\TP-Dojo\BO\obj\Debug\BO.csproj.AssemblyReference.cache
+Z:\ExercicesEni\ASP.NET\Module6-EntityFramework\TP-Dojo\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+Z:\ExercicesEni\ASP.NET\Module6-EntityFramework\TP-Dojo\BO\obj\Debug\BO.dll
+Z:\ExercicesEni\ASP.NET\Module6-EntityFramework\TP-Dojo\BO\obj\Debug\BO.pdb
